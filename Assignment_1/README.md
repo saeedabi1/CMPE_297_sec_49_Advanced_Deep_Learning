@@ -1,9 +1,10 @@
 
-# Assignment 1 : Part 1 - Mirsaeid Abolghasemi
-
 Multi Instant Learning and Semi Supervised Learning colabs
 
-Multi-instance learning is a supervised learning problem where individual examples are unlabeled; instead, bags or groups of samples are labeled.
+
+# Assignment 1 : Part 1 - Mirsaeid Abolghasemi
+
+In machine learning, multiple-instance learning (MIL) is a type of supervised learning. Instead of receiving a set of instances which are individually labeled, the learner receives a set of labeled bags, each containing many instances. In the simple case of multiple-instance binary classification, a bag may be labeled negative if all the instances in it are negative. 
 
 
 
@@ -11,4 +12,4 @@ Multi-instance learning is a supervised learning problem where individual exampl
 
 ## Semi supervised learnign assignment
 
-Pick an appropriate problem domain for semi supervised  learning for which a small data set is readily available, Implement and submit a proper colab with proper ablation study (with various tunings) using tensorboard  for semi supervised  learning. 
+Semi-supervised learning is an approach to machine learning that combines a small amount of labeled data with a large amount of unlabeled data during training. Semi-supervised learning falls between unsupervised learning and supervised learning.
