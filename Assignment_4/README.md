@@ -1,5 +1,5 @@
 Assignment 4 : 
 
-a) multi task learning
+4-a) multi task learning
 
-b) meta learning
+4-b) meta learning
