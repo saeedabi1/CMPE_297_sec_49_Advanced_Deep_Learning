@@ -1,4 +1,4 @@
-CMPE-297 Sec 49 - Advanced Deep Learning - Short story assignment proposal
+CMPE-297 Sec 49 - Advanced Deep Learning - Short story assignment
 
 Mirsaeid Abolghasemi
 
