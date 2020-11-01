@@ -17,10 +17,10 @@ https://mirsaeid-abolghasemi.medium.com/deep-neural-networks-in-text-classificat
 
 
 The link to the presentation on slideshare.net:
+https://www.slideshare.net/SaeedAbolghasemi/deep-neural-networks-in-text-classification-using-active-learning
 
 
-
-The recorded video of presentation are available on this folder.
+The Power Point file and recorded video file of presentation are available on this folder.
 
 
 
